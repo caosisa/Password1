@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">password</string>
+    <string name="tv_pw_input_msg">주문 비밀번호 입력</string>
+    <string name="bt_del_all">전체 삭제</string>
+    <string name="bt_del_one">하나 삭제</string>
+</resources>
